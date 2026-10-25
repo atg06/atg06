@@ -20,8 +20,8 @@ real projects, and by contributing I get to meet people walking the same path.
 
 ### My repos
 
-- [config-audit-tools](https://github.com/atg06/config-audit-tools): small read-only tools that check settings
-- [security-skills](https://github.com/atg06/security-skills): Claude skills for everyday defensive work
+- config-audit-tools (private for now): small read-only tools that check settings
+- security-skills (private for now): Claude skills for everyday defensive work
 - security-oss-team (private for now): my AI-assisted team for defensive security open source.
   I talk to a manager agent; specialists research, build, test and review, and I check everything before it ships.
 
